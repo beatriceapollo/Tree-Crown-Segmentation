@@ -1,3 +1,5 @@
+
+% primo commit
 % -- ALGORITMO DI SEGMENTAZIONE DELLE CHIOME (basato sul paper di Erikson 2003) --
 % Crop Interattivo + Semi sui Picchi + Integrazione CHM
 
